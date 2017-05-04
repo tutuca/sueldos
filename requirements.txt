@@ -1,0 +1,7 @@
+cookiecutter
+pandas
+seaborn
+ipython
+ipdb
+jupyter
+httpie
