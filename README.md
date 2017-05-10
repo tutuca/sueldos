@@ -30,7 +30,7 @@ Instalacion
 Crear un virtualenv con python 3 e instalar los requisitos:
 
      $ virtualenv venv -ppython3
-     $ source venv/activate
+     $ source venv/bin/activate
      (venv) $ pip install -r requirements.txt
 
 Bajar los datos curados
